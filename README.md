@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React/TypeScript/Next.js**
 - 📫 How to reach me **mikukawata.224@gmail.com**
-- 
+- ⚡ Fun fact **I love piano, traveling, and dog**
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
