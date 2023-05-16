@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Miku🌷</h1>
 <h3 align="center">✨ A front-end developer ✨</h3>
-<p align="center">I've been learning to code and focusing on front-end development.</p>
-<p align="center">I'm always trying to leran something new and improve my skills.</p>
+<p align="center">I've been learning Front-End Web Dev.</p>
+<p align="center">I'm always trying to learn something new and improve my skills.</p>
 
 - 🌱 I’m currently learning **React/TypeScript/Next.js**
 - 📫 How to reach me **mikukawata.224@gmail.com**
-- ⚡ Fun fact **I love piano, traveling, and dog**
+- ⚡ Fun fact **I love piano, dog, traveling, and learning something**
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
