@@ -3,6 +3,7 @@
 <p align="center">I've been learning Front-End Web Dev.</p>
 <p align="center">I'm always trying to learn something new and improve my skills.</p>
 <br>
+
 - 🌱 I’m currently learning **React/TypeScript/Next.js**
 
 - ✉️ You can contact me at **mikukawata.224@gmail.com**
