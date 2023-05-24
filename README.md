@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **React/TypeScript/Next.js**
 
+- 🖥️ See my projects at my [portfolio website](https://miku-kawata-portfolio.vercel.app/)
+
 - ✉️ You can contact me at **mikukawata.224@gmail.com**
 
 - 🤝 I'm open to collaborating on exciting projects as a **front-end developer**
