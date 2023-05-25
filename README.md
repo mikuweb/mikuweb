@@ -12,7 +12,7 @@
 
 - 🤝 I'm open to collaborating on exciting projects as a **front-end developer**
 
-- 🍀 **Piano, dog, traveling, Exploring, Hiking, Reading**
+- 🍀 **Piano, Dog, Traveling, Exploring, Hiking, Reading**
 
 <!-- 
 <h3 align="left">Connect with me:</h3>
